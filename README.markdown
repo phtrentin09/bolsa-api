@@ -228,7 +228,8 @@ Response: 200 OK with the applicant details.
 Demonstration
 See the interactive documentation in action:
 
-(Replace with an actual screenshot of your API.)
+![image](https://github.com/user-attachments/assets/b149b90f-c05b-4794-b2ce-76870e12c238)
+
 
 Tests
 .NETRun the automated tests with:
