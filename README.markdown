@@ -101,9 +101,10 @@ Siga os passos abaixo para rodar o projeto localmente:
 
 Veja a documentação interativa em ação:
 
-![Documentação OpenAPI](https://via.placeholder.com/800x400.png?text=API+Documentation+Screenshot)
 
-*(Substitua por uma captura real da sua API.)*
+
+![image](https://github.com/user-attachments/assets/404fde33-54a0-407c-8793-6db378d1795e)
+
 
 ---
 
